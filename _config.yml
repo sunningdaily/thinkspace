@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Text"
 title_right   : "-Overflow" # default: ""
-description   : "This Liao Wengui's Personal Blog."
+description   : "This Stephen J. Teiser's Personal Blog."
 keywords      : "Jekyll, theme, free, note, SEO, blog, web, minimalist, GitHub"
 url           : https://text-overflow.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Liao Wen'gui"
+  name     : "Stephen J. Teiser"
 
 plugins:
   - jekyll-sitemap
