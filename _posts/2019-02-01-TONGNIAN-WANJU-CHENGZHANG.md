@@ -1,7 +1,10 @@
 ---
-layout：post
-title：“致逝去的青春”
-comment：true
+layout: post
+title: "致逝去的青春！"
+comments: true
+description: ""
+keywords: ""
+author: Stephen J. Teiser
 ---
 
 #### 快过年了，打扫房间时发现了小时候玩过的玩具
