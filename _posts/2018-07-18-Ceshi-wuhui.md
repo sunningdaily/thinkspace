@@ -10,4 +10,4 @@ comment: true
 
 完事。
 ### 卡夫
-![测i是](https://github.com/sunningdaily/weeklyfeed/blob/master/assets/images/viva.jpg) 
+![测i是](https://github.com/sunningdaily/weeklyfeed/blob/master/assets/images/logo%402x.png) 
