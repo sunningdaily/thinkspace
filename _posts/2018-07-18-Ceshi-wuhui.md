@@ -9,5 +9,5 @@ comment: true
 看不懂的东西就不要看啊，就傻啦吧唧的干啥。
 
 完事。
-
-![测i是](C:\Users\teamb\Desktop\viva.jpg)
+### 卡夫
+![测i是](https://github.com/sunningdaily/weeklyfeed/blob/master/assets/images/viva.jpg) 
