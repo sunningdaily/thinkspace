@@ -10,4 +10,4 @@ comment: true
 
 完事。
 ## hhh
-![测i是](https://github.com/sunningdaily/weeklyfeed/blob/master/assets/images/logo%402x.png) 
+![图片pic]({{ "/assets/images/logo%402x.png" | absolute_url }})
