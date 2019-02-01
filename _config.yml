@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Text-"
-title_right   : "Overflow" # default: ""
+title_left    : "Text"
+title_right   : "-Overflow" # default: ""
 description   : "This Stephen J. Teiser's Personal Blog."
 keywords      : "Jekyll, theme, free, note, SEO, blog, web, minimalist, GitHub"
 url           : https://text-overflow.com # site url
