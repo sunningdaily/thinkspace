@@ -1,5 +1,5 @@
 ---
-layout：“post”
+layout：post
 title：“致逝去的青春”
 comment：true
 ---
